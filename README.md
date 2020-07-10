@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm lidashuang, a developer, climber
+
+
+![](http://dropshare.oss-cn-beijing.aliyuncs.com/pb-pKVd0j3Iiy-1594343979.png)
+
 <!--
 **defp/defp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
