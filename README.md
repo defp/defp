@@ -2,6 +2,8 @@
 
 I'm lidashuang, a developer, climber
 
+[![my github stats](https://github-readme-stats.vercel.app/api?username=defp)](https://github.com/anuraghazra/github-readme-stats)
+
 
  
 <!--
