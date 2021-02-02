@@ -2,7 +2,7 @@
 
 I'm lidashuang, a developer, climber
 
-![](https://cos.ap-beijing.myqcloud.com/dropshare-1252438752/pb-7PWbqVK8h2.png)
+![](https://cos.ap-beijing.myqcloud.com/dropshare-1252438752/pb-hKB4RjvwXL.png)
 
 
  
