@@ -2,8 +2,7 @@
 
 I'm lidashuang, a developer, climber
 
- ![Repos I contributed to](https://github-contrib-stats.vercel.app/defp/contributed.svg)
-
+![Repos I created](https://github-contrib-stats.vercel.app/defp/created.svg?max_repos=40)
  
 <!--
 **defp/defp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
